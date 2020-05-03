@@ -121,5 +121,3 @@ if valid_grid(grid):
     printMatrix(grid)
 else:
     print("Invalid Grid. Not attempting to solve")
-
-#Check if original grid is valid first?
